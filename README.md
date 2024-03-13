@@ -4,3 +4,4 @@
 3.[ASSIGNMENT3](https://github.com/Nagavishnu189/Aimllab-1/blob/main/program3.ipynb)
 4.[ASSIGNMENT-5](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASSIGNMENT_5.ipynb)
 5.[ASSIGNMENT-06](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASSIGNMENT06.ipynb)
+6.[ASSIGNMENT-04](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASSIGNMENT_04.ipynb)
