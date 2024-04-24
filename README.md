@@ -12,3 +12,5 @@
 6.[ASSIGNMENT-04](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASSIGNMENT_04.ipynb)
 
 7.[ASSIGNMENT-07](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASSIGNMENT07.ipynb)
+
+8.[ASSIGNMENT-08](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASIGNMENT_8.ipynb)
