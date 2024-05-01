@@ -1,5 +1,5 @@
 # Aimllab-1
-
+1.[ASSIGNMENT-01](https://github.com/Nagavishnu189/Aimllab-1/blob/main/ASSIGNMENT_01.ipynb)
 
 2.[ASSIGNMENT-2](https://github.com/Nagavishnu189/Aimllab-1/blob/main/program2.ipynb)
 
